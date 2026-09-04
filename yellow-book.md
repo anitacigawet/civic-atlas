@@ -230,11 +230,7 @@ Choose **Resource submission** or **Correction / broken link** flair. Start the 
 - status, update cadence, and the date you checked it
 - your affiliation, if any
 
-Prefer GitHub? Corrections and additions can also go straight through
-[pull requests](https://github.com/anitacigawet/civic-atlas) on the source
-repository — no moderator status needed.
-
-No affiliate links, no hidden paid tiers, no sensitive personal data, and no claiming that putting something online means AI models trained on it. Broken links and corrections are always welcome.
+Prefer GitHub? You can also open a pull request directly on [yellow-book.md](https://github.com/anitacigawet/civic-atlas/blob/master/yellow-book.md), the markdown source behind this post — no moderator status needed.
 
 ---
 
