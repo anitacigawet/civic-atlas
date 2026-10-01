@@ -8,6 +8,8 @@ Please keep in mind that these simply describe the platform, not the data's lice
 - 🟡 **Freemium** — usable free tier, paid tiers above it
 - 🔴 **Paywall / mixed** — payment, contract, or sponsor usually required
 
+🗺️ Browse the community wiki: [by country](https://www.reddit.com/r/CivicAtlas/wiki/countries) · [by subject](https://www.reddit.com/r/CivicAtlas/wiki/bysubject) · [index](https://www.reddit.com/r/CivicAtlas/wiki/index)
+
 *This directory is maintained with AI assistance, and every entry is checked against its official source. The full source lives on GitHub — if anything is wrong or out of date, [open a pull request](https://github.com/anitacigawet/civic-atlas) or leave a comment. No moderator status needed.*
 
 ## 🤖 MCP & AI-agent access
@@ -62,7 +64,7 @@ What an AI agent — or you — can query or host data through.
 
 ## 🌍 Find data by country
 
-Each link goes to the country's main official open-data portal. Bosnia & Herzegovina is the one gap — no national portal could be verified — and Kenya, Nigeria, South Africa, China, and Russia haven't been verified yet. Per-country detail (APIs, caveats) will live in the subreddit wiki.
+Each link goes to the country's main official open-data portal. Bosnia & Herzegovina is the one gap — no national portal could be verified — and Kenya, Nigeria, South Africa, China, and Russia haven't been verified yet. Per-country detail (APIs, caveats) now lives in the [subreddit wiki](https://www.reddit.com/r/CivicAtlas/wiki/countries).
 
 ### Europe
 
