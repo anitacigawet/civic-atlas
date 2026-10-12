@@ -24,6 +24,7 @@ What an AI agent — or you — can query or host data through.
 | [Kaggle](https://www.kaggle.com/docs/datasets) | Dataset hosting + CLI/API; [official MCP](https://www.kaggle.com/docs/mcp) | 🟢 Free account |
 | [GitHub](https://github.com/) | Repo hosting + APIs; [official MCP server](https://github.com/github/github-mcp-server) (OAuth/token) | 🟢 Free account |
 | [Katzilla](https://katzilla.dev/docs) | Live government-data layer; REST, SDKs, MCP, A2A | 🟡 1,000 calls/mo free, then $49+/mo |
+| [Invokely](https://invokely.ai/docs) | Official statistics data layer with a REST API and hosted MCP; figures include place, period, unit, and source citation | 🟡 500 calls/month free; no-account MCP trial (25 calls/day/IP); paid plans from €19/month ([pricing](https://invokely.ai/pricing)) |
 
 *A listing here doesn't mean any AI model trained on the data — hosting, indexing, and training are three different things.*
 
